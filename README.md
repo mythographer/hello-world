@@ -1,2 +1,4 @@
-# hello-world
-My first repository
+Homeric Hymn to Aphrodite
+
+The story of the birth of Aeneas is told in the "Hymn to Aphrodite," one of the major Homeric Hymns. Aphrodite has caused the other gods, especially Zeus, to fall in love with mortal women. In retaliation, Zeus puts desire in her heart for Anchises, who is tending his cattle among the hills near Mount Ida. When Aphrodite sees him she is smitten. She adorns herself as if for a wedding among the gods and appears before him. He is overcome by her beauty, believing that she is a goddess, but Aphrodite identifies herself as a Phrygian princess. After they make love, Aphrodite reveals her true identity to him and Anchises fears what might happen to him as a result of their liaison. Aphrodite assures him that he will be protected, and tells him that she will bear him a son to be called Aeneas. However, she warns him that he must never tell anyone that he has lain with a goddess. When Aeneas is born, Aphrodite takes him to the nymphs of Mount Ida. She directs them to raise the child to age five, then take him to Anchises.[2] According to other sources, Anchises later brags about his encounter with Aphrodite, and as a result is struck in the foot with a thunderbolt by Zeus. Thereafter he is lame in that foot, so that Aeneas has to carry him from the flames of Troy.
+
